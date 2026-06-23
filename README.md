@@ -65,3 +65,5 @@ The Weather Intelligence Dashboard includes the following features:
 7) The dashboard updates automatically with the latest weather information.
 # Conclusion:
 The Weather Intelligence Dashboard successfully demonstrates the implementation of API Integration using HTML, CSS, JavaScript, and the OpenWeatherMap API. The project provides users with real-time weather information through a modern and responsive interface. It combines dynamic data loading, attractive user interface design, and useful weather insights to create an interactive user experience. Through the development of this project, important concepts such as API integration, front-end development, responsive web design, data processing, and dynamic content rendering were learned and implemented. This project serves as a practical example of how public APIs can be integrated into web applications to build useful, interactive, and real-world solutions.
+#  OUTPUT: 
+<img width="1893" height="965" alt="Image" src="https://github.com/user-attachments/assets/f830341d-0a0d-440f-9656-e0c5221ef030" />
