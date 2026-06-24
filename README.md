@@ -17,21 +17,28 @@ The application dynamically updates the weather information whenever a new city 
 Front-End Technologies:
 1) HTML5 
 --> Used to create the structure of the webpage.
+   
 --> Defines the search bar, weather cards, dashboard layout, and content sections.
 
-2) CSS3
+3) CSS3
 --> Used to design and style the application.
+   
 --> Provides responsive layouts, animations, glassmorphism effects, hover effects, and modern UI elements.
 
-3) JavaScript
+5) JavaScript
 --> Used to handle user interactions.
+   
 --> Fetches weather data from the API.
+
 --> Processes JSON responses.
+
 --> Dynamically updates weather information on the webpage.
 # API Used
 OpenWeatherMap API:
 --> Provides real-time weather information.
+
 --> Returns temperature, humidity, wind speed, weather condition, and other weather-related data.
+
 --> Used as the primary data source for the dashboard.
 # Development Tools
 # Visual Studio Code (VS Code)
